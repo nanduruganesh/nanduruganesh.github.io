@@ -52,7 +52,7 @@ Coursework: Reinforcement Learning, Machine Learning in Image Analysis
 <style>
 .experience-box {
     /* background-color: #f0f0f0; */
-    background-color: #edf5f7; /* Light gray background */
+    background-color: rgba(217, 233, 235, 0.1); /* Light gray background #edf5f7*/ 
     border: 2px solid #9dc5cb; /* Light gray border */
     padding: 10px; /* Padding inside the box */
     margin-bottom: 10px; /* Space between boxes */
@@ -61,7 +61,7 @@ Coursework: Reinforcement Learning, Machine Learning in Image Analysis
 }
 .experience-box2 {
     /* background-color: #f0f0f0; */
-    background-color: #d9e9eb; /* Light gray background */
+    background-color: rgba(237, 245, 247, 0.6); /*#d9e9ebLight gray background */
     border: 2px solid #66A5AD; /* Light gray border */
     padding: 10px; /* Padding inside the box */
     margin-bottom: 10px; /* Space between boxes */
