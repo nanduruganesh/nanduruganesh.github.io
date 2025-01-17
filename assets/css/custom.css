@@ -1,0 +1,26 @@
+.experience-box {
+    background-color: #f0f0f0; /* Light gray background */
+    border: 1px solid #ccc; /* Light gray border */
+    padding: 10px; /* Padding inside the box */
+    margin-bottom: 10px; /* Space between boxes */
+    border-radius: 8px; /* Rounded corners */
+}
+
+.arrow-container {
+    text-align: center; /* Center the arrow and line */
+}
+
+.arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 10px solid blue; /* Blue arrow */
+}
+
+.arrow-line {
+    width: 2px; /* Width of the line */
+    height: 20px; /* Height of the line */
+    background-color: blue; /* Color of the line */
+    margin: 0 auto; /* Center the line */
+}
