@@ -10,6 +10,8 @@ redirect_from:
 
 :wave: Hello! My name is Ganesh and I'm in my final year as a Master of Computer Science student at the University of Virginia. I am a graduate researcher at UVA's [Collaborative Robotics Lab](https://www.collabrobotics.com/), where I explore the intersection of machine learning, robotics, and human interaction. In my personal research, I run experiments to assess the viability and safety of ML approaches to human problems such as bot detection, medical image analysis, and character recognition.
 
+My other interests include playing frisbee and watching horror movies. I captain my school's ultimate frisbee team and am currently building its website [here](https://nanduruganesh.github.io/NightTrainWebpage/){:target="_blank"}! I occasionally build and fly model airplanes as well. Feel free to reach out to my email with any questions you have or just to chat.
+
 Experience
 ------
 <div class="experience-box" style="position: relative;">
@@ -38,7 +40,8 @@ Skills: PyTorch, Variational Autoencoders, ECG Analysis
 <b>Undergraduate Researcher</b> at the Collaborative Robotics Group <br>
 <div class="date" style="text-align: right;">Jan 2022 - present<br>Charlottesville, VA</div> <br>
 
-Designed and conducted several HRI-focused experiments to improve the standard for gesture recognition and multimodal learning.
+Designed and conducted several HRI-focused experiments to improve the standard for gesture recognition and multimodal learning. <br>
+Skills: PyTorch, IRB-SBS Training, High-Performance Computing
 </div>
 
 <div class="experience-box" style="position: relative;">
@@ -76,7 +79,3 @@ Coursework: Reinforcement Learning, Machine Learning in Image Analysis
     color: #555; /* Color for the date */
 }
 </style>
-
-Other
-------
-My [Letterboxd](https://letterboxd.com/gnanduru/)
