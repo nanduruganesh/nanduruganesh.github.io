@@ -50,6 +50,26 @@ author_profile: true
 
 <div class="project-container">
   <div class="project">
+    <h2>UVA Night Train Website</h2>
+    <div class="content">
+      <div class="thumbnail">
+        <img src="../images/nt.webp" alt="Project Image" />
+      </div>
+      <div class="details">
+        <p><strong>Authors:</strong> Ganesh Nanduru </p>
+        <p> Created a website for my frisbee team to record our history, increase visibility, and help raise funds for our tournaments! </p>
+        <p>
+          <a target="_blank" href="https://uvanighttrain.com/">Website</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="project-container">
+  <div class="project">
     <h2>COVID-19 Tracker</h2>
     <div class="content">
       <div class="thumbnail">
