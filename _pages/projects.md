@@ -94,6 +94,27 @@ author_profile: true
 
 <div class="project-container">
   <div class="project">
+    <h2>QNN Noise Robustness on MNIST</h2>
+    <div class="content">
+      <div class="thumbnail">
+        <img src="../images/qiskit.png" alt="Project Image" />
+      </div>
+      <div class="details">
+        <p><strong>Authors:</strong> Ganesh Nanduru, Alexi Gladstone </p>
+        <p>We implement three neural networks: one classical, one qubit-based, and one with hybrid architecture, to determine if the use of qubits can increase their noise robustness on the MNIST classification task. </p>
+        <p>
+          <a target="_blank" href="../files/qnn_noise_robustness.pdf">Paper</a> 
+          <a target="_blank" href="https://github.com/nanduruganesh/qmnist">Code</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="project-container">
+  <div class="project">
     <h2>PCAP-LM</h2>
     <div class="content">
       <div class="thumbnail">
@@ -134,6 +155,45 @@ author_profile: true
 
 <br>
 
+<div class="project-container">
+  <div class="project">
+    <h2>Survey of Wireless Sensing Techniques for ASL Recognition</h2>
+    <div class="content">
+      <div class="thumbnail">
+        <img src="../images/asl_recognition.png" alt="Project Image" />
+      </div>
+      <div class="details">
+        <p><strong>Authors:</strong> Ganesh Nanduru, Leena Bacha, Sarah Boyce </p>
+        <p>We survey and compare state-of-the-art wireless sensing techniques for detecting American Sign Language (ASL).</p>
+        <p>
+          <a target="_blank" href="../files/asl_recognition_survey.pdf">Paper</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="project-container">
+  <div class="project">
+    <h2>Survey of Quantum Software Testing Methods</h2>
+    <div class="content">
+      <div class="thumbnail">
+        <img src="../images/qnn.png" alt="Project Image" />
+      </div>
+      <div class="details">
+        <p><strong>Authors:</strong> Ganesh Nanduru, Alex Walsh </p>
+        <p>We analyze test suites designed to cover the unique code branches of quantum computing. </p>
+        <p>
+          <a target="_blank" href="../files/quantum_testing_survey.pdf">Paper</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
 <!-- Style and script below are for the clickable "and x more" authors for covid map -->
 <style>
         .hidden { display: none; }
