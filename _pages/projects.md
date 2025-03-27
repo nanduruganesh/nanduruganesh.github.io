@@ -103,7 +103,7 @@ author_profile: true
         <p><strong>Authors:</strong> Ganesh Nanduru, Alexi Gladstone </p>
         <p>We implement three neural networks: one classical, one qubit-based, and one with hybrid architecture, to determine if the use of qubits can increase their noise robustness on the MNIST classification task. </p>
         <p>
-          <a target="_blank" href="../files/qnn_noise_robustness.pdf">Paper</a> 
+          <a target="_blank" href="../files/qnn_noise_robustness.pdf">Paper</a> | 
           <a target="_blank" href="https://github.com/nanduruganesh/qmnist">Code</a>
         </p>
       </div>
