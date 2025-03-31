@@ -11,7 +11,7 @@ author_profile: true
     <h2>RAD-Attack: Regularized Adversarial White-Box Attacks on VLMs</h2>
     <div class="content">
       <div class="thumbnail">
-        <img src="../images/rad-attack.webp" alt="Project Image" />
+        <img src="../images/rad-attack.webp" alt="LLM Adversarial Engineering" />
       </div>
       <div class="details">
         <p><strong>Authors:</strong> Ganesh Nanduru, Nate Kimball, Alex Fetea </p>
@@ -32,7 +32,7 @@ author_profile: true
     <h2>Cognitively Inspired Energy-Based World Models</h2>
     <div class="content">
       <div class="thumbnail">
-        <img src="../images/ciebwm.webp" alt="Project Image" />
+        <img src="../images/ciebwm.webp" alt="Energy-Based Loss for Transformers" />
       </div>
       <div class="details">
         <p><strong>Authors:</strong> Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Aman Chadha, Jundong Li, Tariq Iqbal </p>
@@ -53,7 +53,7 @@ author_profile: true
     <h2>UVA Night Train Website</h2>
     <div class="content">
       <div class="thumbnail">
-        <img src="../images/nt.webp" alt="Project Image" />
+        <img src="../images/nt.webp" alt="Frontend Software Development Project" />
       </div>
       <div class="details">
         <p><strong>Authors:</strong> Ganesh Nanduru </p>
@@ -73,7 +73,7 @@ author_profile: true
     <h2>COVID-19 Tracker</h2>
     <div class="content">
       <div class="thumbnail">
-        <img src="../images/covidmap.webp" alt="Project Image" />
+        <img src="../images/covidmap.webp" alt="ReactJS and Python Data Science Project" />
       </div>
       <div class="details">
         <p><strong>Authors:</strong> 
@@ -97,7 +97,7 @@ author_profile: true
     <h2>QNN Noise Robustness on MNIST</h2>
     <div class="content">
       <div class="thumbnail">
-        <img src="../images/qiskit.png" alt="Project Image" />
+        <img src="../images/qnn.png" alt="Qiskit Neural Network and Data Science Project" />
       </div>
       <div class="details">
         <p><strong>Authors:</strong> Ganesh Nanduru, Alexi Gladstone </p>
@@ -118,7 +118,7 @@ author_profile: true
     <h2>PCAP-LM</h2>
     <div class="content">
       <div class="thumbnail">
-        <img src="../images/ddos.webp" alt="Project Image" />
+        <img src="../images/ddos.webp" alt="LLM Networking and Cybersecurity Project" />
       </div>
       <div class="details">
         <p><strong>Authors:</strong> Ganesh Nanduru, Christopher Johnson </p>
@@ -139,7 +139,7 @@ author_profile: true
     <h2>Video Swin Transformer for Medical Image Regression</h2>
     <div class="content">
       <div class="thumbnail">
-        <img src="../images/tos_curve.webp" alt="Project Image" />
+        <img src="../images/tos_curve.webp" alt="Medical Imaging Video Transformer" />
       </div>
       <div class="details">
         <p><strong>Authors:</strong> Ganesh Nanduru, Sravanth Potluri, Rahul Reddy, Swakshar Deb </p>
@@ -160,7 +160,7 @@ author_profile: true
     <h2>Survey of Wireless Sensing Techniques for ASL Recognition</h2>
     <div class="content">
       <div class="thumbnail">
-        <img src="../images/asl_recognition.png" alt="Project Image" />
+        <img src="../images/asl_recognition.png" alt="Position Paper on Wireless Sensing for ASL" />
       </div>
       <div class="details">
         <p><strong>Authors:</strong> Ganesh Nanduru, Leena Bacha, Sarah Boyce </p>
@@ -180,7 +180,7 @@ author_profile: true
     <h2>Survey of Quantum Software Testing Methods</h2>
     <div class="content">
       <div class="thumbnail">
-        <img src="../images/qnn.png" alt="Project Image" />
+        <img src="../images/qiskit.png" alt="Position Paper on Quantum Computing Software Testing" />
       </div>
       <div class="details">
         <p><strong>Authors:</strong> Ganesh Nanduru, Alex Walsh </p>
